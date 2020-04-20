@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fantocode/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/fantocode/static/js/main.9f4c6f90.chunk.js",
+    "main.js.map": "/fantocode/static/js/main.9f4c6f90.chunk.js.map",
+    "runtime-main.js": "/fantocode/static/js/runtime-main.39e1e6c1.js",
+    "runtime-main.js.map": "/fantocode/static/js/runtime-main.39e1e6c1.js.map",
+    "static/js/2.bd11f694.chunk.js": "/fantocode/static/js/2.bd11f694.chunk.js",
+    "static/js/2.bd11f694.chunk.js.map": "/fantocode/static/js/2.bd11f694.chunk.js.map",
+    "index.html": "/fantocode/index.html",
+    "precache-manifest.1a22f3a415ef6a6b828f63413a22816d.js": "/fantocode/precache-manifest.1a22f3a415ef6a6b828f63413a22816d.js",
+    "service-worker.js": "/fantocode/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/fantocode/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.bd11f694.chunk.js.LICENSE.txt": "/fantocode/static/js/2.bd11f694.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39e1e6c1.js",
+    "static/js/2.bd11f694.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.9f4c6f90.chunk.js"
+  ]
+}
